@@ -3,6 +3,9 @@ Map Translation is a machine learning project aimed at translating satellite ima
 Features:
 
 Image Translation: Convert satellite images to Google Map images and vice versa using a trained machine learning model.
+<br>
 User-Friendly Interface: Built with Flutter, the app provides a smooth user experience.
+<br>
 Firebase Integration: Store generated images and user information in a secure database.
+<br>
 High Accuracy: Achieved an accuracy of 93% on the test dataset.
